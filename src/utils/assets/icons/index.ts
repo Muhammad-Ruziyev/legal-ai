@@ -1,0 +1,12 @@
+export { default as LogoIcon } from "./LogoIcon";
+export { default as FolderIcon } from "./FolderIcon";
+export { default as HomeIcon } from "./HomeIcon";
+export { default as PenIcon } from "./PenIcon";
+export { default as AppsIcon } from "./AppsIcon";
+export { default as CoinIcon } from "./CoinIcon";
+export { default as HandshakeIcon } from "./HandshakeIcon";
+export { default as SettingsIcon } from "./SettingsIcon";
+export { default as SendMessageIcon } from "./SendMessageIcon";
+export { default as EllipseIcon } from "./EllipseIcon";
+export { default as AttachIcon } from "./AttachIcon";
+export { default as CopyIcon } from "./CopyIcon";
