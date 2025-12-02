@@ -10,3 +10,4 @@ export { default as SendMessageIcon } from "./SendMessageIcon";
 export { default as EllipseIcon } from "./EllipseIcon";
 export { default as AttachIcon } from "./AttachIcon";
 export { default as CopyIcon } from "./CopyIcon";
+export { default as TrashIcon } from "./TrashIcon";
